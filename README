@@ -1,0 +1,1 @@
+Lauch the app with the command 'mpirun -n 4 ./matrix_product matA.dat matB.dat 8'
